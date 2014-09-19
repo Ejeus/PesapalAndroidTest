@@ -15,6 +15,5 @@ private static String consumer_secret = "";
 
 ## Dependency
  * [PesapalJavaLib]()
- * [Signpost](http://code.google.com/p/oauth-signpost/)
 
 
