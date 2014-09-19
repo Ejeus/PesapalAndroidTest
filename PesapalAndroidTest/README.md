@@ -14,6 +14,6 @@ private static String consumer_secret = "";
 ```
 
 ## Dependency
- * [PesapalJavaLib]()
+ * [PesapalJavaLib](https://github.com/bubinimara/PesapaJavaLib)
 
 
